@@ -1,0 +1,10 @@
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\bin\Debug\DPR_solo.exe.config
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\bin\Debug\DPR_solo.exe
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\bin\Debug\DPR_solo.pdb
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.csprojAssemblyReference.cache
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.Form1.resources
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.Properties.Resources.resources
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.csproj.GenerateResource.cache
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.csproj.CoreCompileInputs.cache
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.exe
+D:\Stefan\DPRProject\dpr\DPR_solo\DPR_solo\obj\Debug\DPR_solo.pdb
